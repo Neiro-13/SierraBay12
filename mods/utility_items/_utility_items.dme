@@ -22,10 +22,14 @@
 #include "code/hair_olivka.dm"
 #include "code/ert_maint_helmet.dm"
 #include "code/tag_recipe.dm"
+<<<<<<< Updated upstream
 #include "code/dodge_animation.dm"
 #include "code/advanced_landing.dm"
 #include "code/chemistry.dm"
 #include "code/jobs.dm"
 
+=======
+#include "code/hair_dyak.dm"
+>>>>>>> Stashed changes
 
 #endif
