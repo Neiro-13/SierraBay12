@@ -43,10 +43,7 @@
 #include "character_traits/_character_traits.dme"
 #include "failu_skrell_clothes/_failu_skrell_clothes.dme"
 #include "chemtweaks/_chemtweaks.dme"
-<<<<<<< Updated upstream
 #include "diona/_diona.dme"
-=======
 #include "pilot_void_rework/_pvr.dme"
->>>>>>> Stashed changes
 
 #include "../packs/sierra-tweaks/_pack.dm"
