@@ -3,8 +3,8 @@
 
 
 // Далее просто включай свой код
-#include "code/pvr_characteristics.dm"
-#include "code/pvr_xeno.dm"
+#include "mods\pilot_void_rework\code/pvr_characteristics.dm"
+#include "mods\pilot_void_rework\code/pvr_xeno.dm"
 // #include "code/something.dm"
 
 #endif
