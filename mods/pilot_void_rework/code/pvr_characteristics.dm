@@ -23,7 +23,6 @@
 	randpixel = 0
 	species_restricted = list("exclude", SPECIES_NABBER, SPECIES_DIONA)
 	flash_protection = FLASH_PROTECTION_MAJOR
-	tint = TINT_MODERATE
 
 /obj/item/clothing/suit/space/void/pilot
 	desc = "An atmos resistant voidsuit for space and planet exploration."
