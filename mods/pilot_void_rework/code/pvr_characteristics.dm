@@ -3,8 +3,8 @@
 /obj/item/clothing/head/helmet/space/void/pilot
 	desc = "An atmos resistant helmet for space and planet exploration."
 	name = "pilot voidsuit helmet"
-	icon_state = "icons/pilot_void_rework_onmob/pvr_human_helm.dmi"
-	item_state = "icons/pilot_void_rework_obj/pvr_human_helm_obj.dmi"
+	icon_state = "mods/pilot_void_rework/icons/human/pvr_human_onmob_helm.dmi"
+	item_state = "mods/pilot_void_rework/icons/human/pvr_human_obj_helm.dmi"
 	armor = list(
 		melee = ARMOR_MELEE_KNIVES,
 		bullet = ARMOR_BALLISTIC_MINOR,
@@ -26,8 +26,8 @@
 
 /obj/item/clothing/suit/space/void/pilot
 	desc = "An atmos resistant voidsuit for space and planet exploration."
-	icon_state = "icons/pilot_void_rework_onmob/pvr_human.dmi"
-	item_state = "icons/pilot_void_rework_obj/pvr_human_obj.dmi"
+	icon_state = "mods/pilot_void_rework/icons/human/pvr_human_onmob_suit.dmi"
+	item_state = "mods/pilot_void_rework/icons/human/pvr_human_obj_suit.dmi"
 	name = "pilot voidsuit"
 	armor = list(
 		melee = ARMOR_MELEE_KNIVES,
@@ -46,7 +46,6 @@
 
 /obj/item/clothing/suit/space/void/pilot
 	icon = "rig-pilot"
-	icon_state = "mods/pilot_void_rework/icons/human/pvr_human_obj_suit.dmi"
 	w_class = ITEM_SIZE_LARGE//large item
 	item_flags = ITEM_FLAG_THICKMATERIAL
 	body_parts_covered = UPPER_TORSO|LOWER_TORSO|LEGS|FEET|ARMS|HANDS
